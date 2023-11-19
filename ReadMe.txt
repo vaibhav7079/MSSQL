@@ -1,3 +1,6 @@
+Imported the data using SQL Server Import and Export wizard.
+
+
 Business Context
 A retail store would like to understand customer behavior using their point of sale data (POS).
 
